@@ -78,5 +78,3 @@ export default class Card extends Component {
     }
 }
 
-
-//className='bg-blue-900 rounded-b-xl py-4 flex justify-evenly'
